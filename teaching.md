@@ -3,7 +3,8 @@ layout: page
 title: "Teaching"
 ---
 
-I am capable of teaching courses at both the undergraduate and graduate levels, focusing on microeconomic theory, applied econometrics.
+I have assisted and taught various economics courses at both the undergraduate and graduate levels, with a focus on microeconomic theory and applied econometrics.
+
 
 #### Teaching Assistance
 
@@ -24,4 +25,6 @@ ECON 1116: Principles of Microeconomics
 
 #### Program Assistance
 
-Summer 2023: ECON 3915: Economic Development in Rwanda, ECON 3916: Conflict Economics
+Summer 2023: ECON 3915: Economic Development in Rwanda
+
+ECON 3916: Conflict Economics
