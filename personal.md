@@ -13,8 +13,8 @@ I love anime and games, and I’ve been a TouHou fan for 12 years. I love anime 
 
 I enjoy comedy and perform standup and improv in Mandarin with [DingHo Comedy](https://www.eventbrite.com/o/dingho-comedy-33952860901) in Boston.
 
-![Performance](_DSC2502.jpg) ![Open Mic](_DSC2001.jpg)
-
+![Performance](_DSC2502.jpg) 
+<img src="_DSC2502.jpg" alt="Standup Performance" width="300"/>
 
 ## Activities
 
