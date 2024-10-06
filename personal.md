@@ -15,7 +15,7 @@ I enjoy comedy and perform standup and improv in Mandarin with [DingHo Comedy](h
 
 
 
-##Activities
+## Activities
 
 ITF Taekwondo Green Belt
 
