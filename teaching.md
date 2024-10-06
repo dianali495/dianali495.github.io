@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Teaching"
 ---
 
 I teach microeconomics.
