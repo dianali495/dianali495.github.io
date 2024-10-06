@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Personal"
+title: ""
 ---
 
 Anime & Cosplay
