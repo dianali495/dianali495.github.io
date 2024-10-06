@@ -6,6 +6,7 @@ title: ""
 ## Anime & Cosplay
 
 I love anime and games, and I’ve been a TouHou fan for 12 years. I love anime and games, and I’ve been a TouHou fan for 12 years. I enjoy cosplaying and make the costumes myself from time to time.
+
 <img src="momiji.jpg" alt="Inubashiri Momiji" width="300"/>
 
 
