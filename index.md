@@ -3,4 +3,4 @@ layout: page
 title: "Home index page"
 ---
 
-index file for the home page
+[Link to Other Page](homepage.md)
