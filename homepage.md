@@ -10,6 +10,7 @@ title: "Home Page"
   <p>
     
     I am a Ph.D. candidate in Economics with a focus on microeconomic empirical studies, particularly in market competition, price theory, and welfare economics. My research explores how policy changes affect consumer welfare and market dynamics. 
+
     
     View my <a href="/Diana_Li_Resume.pdf" target="_blank"> CV </a>.
   </p>
