@@ -2,6 +2,7 @@
 layout: page
 title: "Home Page"
 ---
+
 **Welcome to my website!**
 
 <div style="display: flex; align-items: center;">
