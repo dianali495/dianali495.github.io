@@ -18,7 +18,7 @@ ECON 5140: Econometric (Masters)
 
 ECON 5110: Microeconomics (Masters)
 
-***
+---
 
 #### Recitation Leader
 
