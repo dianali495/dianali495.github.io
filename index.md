@@ -9,8 +9,9 @@ title: "Home"
   <img src="/headshot.jpg" alt="Diana Li" style="width: 300px; margin-right: 20px;">
   <p>
     
-    I am a Ph.D. candidate in Economics with a focus on microeconomic empirical studies, particularly in market competition, price theory, and welfare economics. My research explores how policy changes affect consumer welfare and market dynamics. 
+    I am a Ph.D. candidate in Economics at Norhteastern University. My research focus on microeconomic empirical studies, particularly in market competition, and welfare economics.
 
+    <br><br>
     
     View my <a href="/Diana_Li_Resume.pdf" target="_blank"> CV </a>.
   </p>
