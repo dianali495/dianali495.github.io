@@ -20,11 +20,11 @@ ECON 5110: Microeconomics (Masters)
 
 #### Recitation Leader
 
-ECON 1116: Principles of Microeconomics
+ECON 1116: Principles of Microeconomics (Undergraduates)
 
 
 #### Program Assistant
 
-Summer 2023: ECON 3915: Economic Development in Rwanda
+ECON 3915: Economic Development in Rwanda (Undergraduates)
 
-ECON 3916: Conflict Economics
+ECON 3916: Conflict Economics (Undergraduates)
