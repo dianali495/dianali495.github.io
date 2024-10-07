@@ -6,7 +6,7 @@ title: "Teaching"
 I have assisted and taught various economics courses at both the undergraduate and graduate levels, with a focus on microeconomic theory and applied econometrics.
 
 
-#### Teaching Assistance
+#### Teaching Assistant
 
 ECON 1115: Principles of Macroeconomics (Undergraduates) 
 
@@ -23,7 +23,7 @@ ECON 5110: Microeconomics (Masters)
 ECON 1116: Principles of Microeconomics
 
 
-#### Program Assistance
+#### Program Assistant
 
 Summer 2023: ECON 3915: Economic Development in Rwanda
 
