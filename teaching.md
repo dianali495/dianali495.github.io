@@ -8,9 +8,11 @@ I have assisted and taught various economics courses at both the undergraduate a
 
 #### Teaching Assistant
 
-> ECON 1115: Principles of Macroeconomics (Undergraduates) 
-> ECON 2350: Statistics for Economists (Undergraduates)
-> ECON 2560: Applied Econometrics (Undergraduates)
+ECON 1115: Principles of Macroeconomics (Undergraduates) 
+
+ECON 2350: Statistics for Economists (Undergraduates)
+
+ECON 2560: Applied Econometrics (Undergraduates)
 
 ECON 5140: Econometric (Masters)
 
