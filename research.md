@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Research"
+---
+
 ### Job Market Paper
 
 Welfare Analysis of WIC Subsidy Program in the Infant Formula Market
