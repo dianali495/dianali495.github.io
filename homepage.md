@@ -10,7 +10,7 @@ title: "Home Page"
     
     I’m a 5th year Economics Ph.D Candiate at Northeastern University.
     
-    View my lastest [CV](/Diana_Li_Resume.pdf)
+    <a href="Diana_Li_Resume.pdf" download> Download my CV</a>.
   </p>
 </div>
 
