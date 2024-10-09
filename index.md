@@ -13,7 +13,7 @@ title: "Home"
 
     <br><br>
     
-    View my <a href="/dianali_cv_fall2024.pdf" target="_blank"> CV </a>.
+    View my <a href="/dianali_cv_2024fall.pdf" target="_blank"> CV </a>.
   </p>
 </div>
 
