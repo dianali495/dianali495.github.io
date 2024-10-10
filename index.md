@@ -9,7 +9,7 @@ title: "Home"
   <img src="/headshot.jpg" alt="Diana Li" style="width: 300px; margin-right: 20px;">
   <p>
     
-    I am a Ph.D. candidate in Economics at Northeastern University. My research focus on microeconomic empirical studies, particularly in market competition, and welfare economics.
+    I am a Ph.D. candidate in Economics at Northeastern University. My research focuses on microeconomic empirical studies, particularly in market competition, and welfare economics.
 
     <br><br>
     
