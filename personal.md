@@ -6,10 +6,10 @@ title: ""
 <!--
 ### ACGN
 
-I love anime and games, and I’ve been a TouHou fan for 12 years. I enjoy cosplaying and making costumes.
+I love anime and games, and I’ve been a TouHou fan for 12 years. I enjoy cosplaying and making costumes.-->
 
  <!-- <img src="/momiji.jpg" alt="Inubashiri Momiji" width="300"/> -->
- <img src="/meirin.jpg" alt="Hong Meirin" width="300"/> -->
+ <!-- <img src="/meirin.jpg" alt="Hong Meirin" width="300"/> -->
 
 ### Comedy
 
