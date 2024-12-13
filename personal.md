@@ -22,3 +22,5 @@ I am a co-founder of [Ding Ho Comedy](https://www.eventbrite.com/o/dingho-comedy
 ITF Taekwondo Green Belt
 
 AIDA2 Freediving
+
+PADI Advanced Mermaid
